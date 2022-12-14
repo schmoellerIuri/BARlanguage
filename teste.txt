@@ -1,0 +1,24 @@
+GARRAFA soma(GARRAFA first, GARRAFA second){
+    GARRAFA soma = first + second;
+    
+    ZEROU_POR_HOJE soma;
+}
+
+GARRAFA main(){
+LATA x , y = 2;
+
+LATA a = x * y;
+
+LATA b = 5$#;
+
+GARRAFA resultado = soma(a,b);
+
+MAIS_UMA( b > 10){
+    b = b + 1;
+    CERVEJINHA_HOJE(b == 8){
+        DESCE_REDONDO(resultado);
+    }
+}
+
+ZEROU_POR_HOJE 0;
+}
